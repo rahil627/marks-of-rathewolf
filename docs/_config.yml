@@ -1,0 +1,96 @@
+# copied from mind-of-rathewolf repo
+
+# github pages hasn't updated to jekyll 4.0, which uses the theme's config file by default
+# so, for now, you must copy the theme's config file's content into here
+
+# ronv/sidey will likely be my main theme to start with...:
+# it's quite bare, reads like an e-reader, yet has all the essentials
+# one-page sites can use either the default theme minima or ronv/ultra
+remote_theme: rahil627/sidey-customized # seems updated as of recently (01/2022), so try to fetch updats
+
+# standard vars
+title: the mind of rathewolf
+description: thoughts, philosophies, writings, expressions
+
+# semi-standard vars
+site: the mind of rathewolf #often used by plguins
+url: https://mind.rathewolf.com #used by plugins
+
+author:
+#  twitter: #yourusername
+  name: rahil627
+#  avatar:
+#  email: #youremail
+  url: https://rathewolf.com 
+  
+# custom
+# try to convert newlines properly
+kramdown:
+  input: GFM
+  hard_wrap: true # todo: need to understand how this works
+  
+# theme specific vars
+#twitter:
+#  username: #yourusername
+#  card: summary
+#  creator: #yourusername
+#author:
+#  twitter: #yourusername
+#  name: rahil627
+#  avatar:
+#  email: #youremail
+#  url: #yoururl
+
+# permalink: pretty
+
+baseurl: ""
+
+#highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# note: remember to add to the gemfile too
+plugins:
+  # plugins that already exist on the github pages dependencies
+  - jekyll-feed # i added to the gemfile anyway..
+
+  # theme's custom plugins in the gemfile
+  - jekyll-paginate # standard if not official plugin
+  - jekyll-titles-from-headings
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+
+defaults:
+   -
+    scope:
+      path: ""
+    values:
+      layout: "default" # i'm not sure how this works.., only works on .md files?
+
+# it might be better to stick to jekyll's defaults `_posts` 'n `_pages` for the sake of plugins 'n themes
+#  -
+#    scope:
+#      path: "/posts"
+#    values:
+#      layout: "posts"
+
+#  -
+#    scope:
+#      path: "pages"
+#    values:
+#      layout: "pages"
