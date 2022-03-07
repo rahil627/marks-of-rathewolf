@@ -3,35 +3,19 @@
 links:
 - title: yo!
   url: /index
-- title: old-herro
-  url: /herro
-- title: corpus # categorized?, selected?, annotated
-  url: /valuable-things-ive-written #need to keep the old link, referenced a lot in my portfolio, SPELLED WRONG LOL
 - title: main-list
   url: /posts-list
-- title: old-main
-  url: /complete-list
 - title: search
   url: /search
-- title: old-archives
-  url: /archives
 - title: feed
   url: /feed
-- title: '-' #just to add some space
-  url: {{ page.url }}
-- title: resume
-  url: /resume
-- title: portfolio
-  url: /portfolio
-- title: '-' #just to add some space
+  title: '-' # spacer
   url: {{ page.url }}
 - title: debug
   url: /pages-list
 - title: drafts
   url: /drafts-list
-- title: old-site
-  url: https://www.rahilpatel.com
-- title: '-' #just to add some space
+- title: '-' # spacer
   url: {{ page.url }}
 - title: a <u>willowolf</u>
   url: https://willowolf.com
