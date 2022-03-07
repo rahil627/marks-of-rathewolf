@@ -9,19 +9,13 @@
 remote_theme: rahil627/sidey-customized # seems updated as of recently (01/2022), so try to fetch updats
 
 # standard vars
-title: the mind of rathewolf
-description: thoughts, philosophies, writings, expressions
+title: marks of rathewolf
+description: notes, *on everything*
 
 # semi-standard vars
-site: the mind of rathewolf #often used by plguins
-url: https://mind.rathewolf.com #used by plugins
+site: marks of rathewolf #often used by plguins
+url: https://marks.rathewolf.com #used by plugins
 
-author:
-#  twitter: #yourusername
-  name: rahil627
-#  avatar:
-#  email: #youremail
-  url: https://rathewolf.com 
   
 # custom
 # try to convert newlines properly
@@ -34,12 +28,13 @@ kramdown:
 #  username: #yourusername
 #  card: summary
 #  creator: #yourusername
-#author:
+author:
 #  twitter: #yourusername
-#  name: rahil627
+  name: rahil627
 #  avatar:
 #  email: #youremail
-#  url: #yoururl
+  url: https://rathewolf.com 
+
 
 # permalink: pretty
 
