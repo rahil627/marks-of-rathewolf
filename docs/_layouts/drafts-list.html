@@ -1,0 +1,17 @@
+---
+layout: default # inherit default layout
+
+# FAIL: jekyll doesn't process drafts nor unpublished posts
+# would need to change the build options somehow
+# see https://jekyllrb.com/docs/configuration/options/
+---
+
+<section class="posts">
+<ul>
+{% for post in site.posts %}
+  {% if post.published == false %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+  {% endif %}
+{% endfor %}
+</ul>
+</section>
