@@ -62,6 +62,9 @@ plugins:
   - jekyll-paginate # standard if not official plugin
   - jekyll-titles-from-headings
 
+  # plugins that i added specifically for this project
+  - 'jekyll-optional-front-matter'
+
 collections:
   pages:
     output: true
