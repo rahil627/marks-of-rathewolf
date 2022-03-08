@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /home/
 slug: home #this doesn't seem to work...
 title: yo!
 ---
