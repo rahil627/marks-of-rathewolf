@@ -4,3 +4,4 @@ slug: drafts
 ---
 
 <!-- adding text here doesn't do anything -->
+list of drafts
