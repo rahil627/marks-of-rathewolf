@@ -1,5 +1,4 @@
 ---
-author: rahil627
 layout: posts-list
 slug: list
 title: a list of all my notes
