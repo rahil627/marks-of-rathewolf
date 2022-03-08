@@ -85,7 +85,7 @@ defaults:
     scope:
       path: "my-notes"
     values:
-      layout: "posts" # i'm not sure how this works.., only works on .md files?
+      layout: "post" # i'm not sure how this works.., only works on .md files?
 
 
 # it might be better to stick to jekyll's defaults `_posts` 'n `_pages` for the sake of plugins 'n themes
@@ -93,10 +93,10 @@ defaults:
 #    scope:
 #      path: "/posts"
 #    values:
-#      layout: "posts"
+#      layout: "post"
 
 #  -
 #    scope:
 #      path: "pages"
 #    values:
-#      layout: "pages"
+#      layout: "page"
