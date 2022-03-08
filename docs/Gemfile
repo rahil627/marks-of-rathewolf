@@ -7,4 +7,4 @@ gem 'jekyll-feed'
 #gem 'jekyll-optional-front-matter'
 
 
-gem 'jekyll-optional-front-matter', git: 'https://github.com/rahil627/jekyll-optional-front-matter.git'
+gem 'jekyll-optional-front-matter', '0.3.2', git: 'https://github.com/rahil627/jekyll-optional-front-matter.git'
