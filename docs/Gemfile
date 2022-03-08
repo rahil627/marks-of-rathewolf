@@ -4,4 +4,7 @@ gem 'jekyll-paginate'
 gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 gem 'jekyll-feed'
-gem 'jekyll-optional-front-matter'
+#gem 'jekyll-optional-front-matter'
+
+
+gem 'jekyll-optional-front-matter', git: 'https://github.com/rahil627/jekyll-optional-front-matter.git'
