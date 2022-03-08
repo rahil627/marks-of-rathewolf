@@ -65,6 +65,9 @@ plugins:
   # plugins that i added specifically for this project
   - 'jekyll-optional-front-matter'
 
+include:
+  - /my-notes
+
 collections:
   pages:
     output: true
