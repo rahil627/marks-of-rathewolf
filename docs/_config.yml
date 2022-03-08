@@ -88,7 +88,7 @@ defaults:
 # TESTING this bit
    -
     scope:
-      path: "/my-notes"
+      path: "my-notes" #or /my-notes?
       type: posts
     values:
       layout: "post" # i'm not sure how this works.., only works on .md files?
