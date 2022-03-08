@@ -1,5 +1,6 @@
 ---
 layout: page
+slug: home
 title: yo!
 ---
 
