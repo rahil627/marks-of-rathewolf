@@ -72,10 +72,10 @@ include:
 collections:
   pages:
     output: true
-    permalink: /:slug #:name #i changed this so i can use index for another page, and home for the home-page (index.md)
+    permalink: /:name
   posts:
     output: true
-    permalink: /:slug
+    permalink: /:name #/:slug
 
 defaults:
    -
