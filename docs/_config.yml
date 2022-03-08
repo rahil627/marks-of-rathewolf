@@ -89,7 +89,7 @@ defaults:
    -
     scope:
       path: "my-notes" #or /my-notes?
-      type: "posts" #don't know what this is for
+      type: posts #don't know what this is for, and i don't know why it's not a string...
     values:
       layout: "post"
 
@@ -98,13 +98,13 @@ defaults:
 #  -
 #    scope:
 #      path: "/posts"
-#      type: "posts"
+#      type: posts
 #    values:
 #      layout: "post"
 
 #  -
 #    scope:
 #      path: "pages"
-#      type: "pages"
+#      type: pages
 #    values:
 #      layout: "page"
