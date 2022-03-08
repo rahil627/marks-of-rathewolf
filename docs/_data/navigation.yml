@@ -2,9 +2,9 @@
 # don't generate this automatically because it's simpler to maintain the order this way
 links:
 - title: yo!
-  url: /index
-- title: main-list
-  url: /posts-list
+  url: /index # Jekyll forces you to use "index"
+- title: index
+  url: /posts-list # but this page is literally an index
 - title: search
   url: /search
 - title: feed
