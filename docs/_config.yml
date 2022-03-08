@@ -83,7 +83,7 @@ defaults:
    -
 
     scope:
-      path: "my-notes"
+      path: "/my-notes"
     values:
       layout: "post" # i'm not sure how this works.., only works on .md files?
 
