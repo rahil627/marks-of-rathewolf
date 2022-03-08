@@ -81,30 +81,30 @@ collections:
 defaults:
    -
     scope:
-      path: ""
+      path: "" # empty string means all files, but a '.' would be more clear
     values:
-      layout: "default" # i'm not sure how this works.., only works on .md files?
+      layout: "default" # i'm not sure how this works.., only works files with front matter, or with extension .md..?
 
 # TESTING this bit
    -
     scope:
       path: "my-notes" #or /my-notes?
-      type: posts
+      type: "posts" #don't know what this is for
     values:
-      layout: "post" # i'm not sure how this works.., only works on .md files?
+      layout: "post"
 
 
 # it might be better to stick to jekyll's defaults `_posts` 'n `_pages` for the sake of plugins 'n themes
 #  -
 #    scope:
 #      path: "/posts"
-#      type: posts
+#      type: "posts"
 #    values:
 #      layout: "post"
 
 #  -
 #    scope:
 #      path: "pages"
-#      type: pages
+#      type: "pages"
 #    values:
 #      layout: "page"
