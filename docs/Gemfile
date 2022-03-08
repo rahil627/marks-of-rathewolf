@@ -6,5 +6,6 @@ gem 'jekyll-sitemap'
 gem 'jekyll-feed'
 #gem 'jekyll-optional-front-matter'
 
-
+# if it's not in the ruby gems package manager, then you can't use that as a source
+# if there is no '.gemspec' file in the root of the repo/package, then you must specify a version
 gem 'jekyll-optional-front-matter', '0.3.2', git: 'https://github.com/rahil627/jekyll-optional-front-matter.git'
