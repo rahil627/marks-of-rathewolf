@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /home/
+#permalink: /home/ #this breaks the site! :o
 slug: home #this doesn't seem to work...
 title: yo!
 ---
