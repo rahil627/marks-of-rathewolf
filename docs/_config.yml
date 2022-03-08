@@ -70,7 +70,7 @@ include:
   - /my-notes
   - my-notes # ...just to try?
   
-markdown_ext: "txt" # does it override, or append?
+#markdown_ext: "txt" # does it override, or append? #error
 
 collections:
   pages:
@@ -91,7 +91,7 @@ defaults:
    -
     scope:
       path: "my-notes" #or /my-notes?
-      type: posts #don't know what this is for, and i don't know why it's not a string...
+      type: "posts" #don't know what this is for, and i don't know why it's not a string...
     values:
       layout: "post"
 
