@@ -70,7 +70,7 @@ include:
   - /my-notes
   - my-notes # ...just to try?
   
-markdown_ext: txt # does it override, or append?
+markdown_ext: "txt" # does it override, or append?
 
 collections:
   pages:
