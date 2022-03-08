@@ -1,6 +1,6 @@
 ---
 layout: posts-list
-slug: index
+slug: list
 title: a list of all my notes
 ---
 
