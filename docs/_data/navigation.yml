@@ -11,10 +11,12 @@ links:
   url: /feed
   title: '-' # spacer
   url: {{ page.url }}
-- title: debug
+- title: pages
   url: /pages-list
 - title: drafts
   url: /drafts-list
+- title: posts
+  url: /posts-list
 - title: '-' # spacer
   url: {{ page.url }}
 - title: a <u>willowolf</u>
