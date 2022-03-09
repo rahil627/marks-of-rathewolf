@@ -72,6 +72,7 @@ include:
   - /my-notes/
   
 markdown_ext: "txt" # does it override, or append? #error
+encoding: utf-8 # maybe assumrs all files are utf-8 with this?
 
 collections:
   pages:
