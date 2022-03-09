@@ -91,7 +91,7 @@ defaults:
 # this should add front-matter to site.static_files
    -
     scope:
-      path: "/my-notes" #or /my-notes?
+      path: "my-notes" #or /my-notes?
       type: "" #if it has no type (doesn't have a markdown extension, and not explicitly given a type in the file)
     values: #add the following values to the front matter
       layout: "post"
