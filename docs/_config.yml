@@ -68,7 +68,8 @@ plugins:
 # TESTING this bit
 include:
   - /my-notes
-  - my-notes # ...just to try?
+  - my-notes # cover all options
+  - /my-notes/
   
 #markdown_ext: "txt" # does it override, or append? #error
 
