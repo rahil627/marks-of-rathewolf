@@ -1,0 +1,83 @@
+jekyll build log errors
+
+Error reading file /github/workspace/docs/my-notes/applications - iOS.txt: invalid byte sequence in UTF-8 
+18
+Error reading file /github/workspace/docs/my-notes/applications for work/applications/visa application for Taiwan/taiwan visa checklist.txt: invalid byte sequence in UTF-8 
+19
+Error reading file /github/workspace/docs/my-notes/applications for work/freelancing.txt: invalid byte sequence in UTF-8 
+20
+Error reading file /github/workspace/docs/my-notes/applications for work/resumes/resume.txt: invalid byte sequence in UTF-8 
+21
+Error reading file /github/workspace/docs/my-notes/art (art notes)/contests/Tongal - Lego Factory.txt: invalid byte sequence in UTF-8 
+22
+Error reading file /github/workspace/docs/my-notes/art (art notes)/contests/Tongal - Name.txt: invalid byte sequence in UTF-8 
+23
+Error reading file /github/workspace/docs/my-notes/art (art notes)/films/works/Malaysia.txt: invalid byte sequence in UTF-8 
+24
+Error reading file /github/workspace/docs/my-notes/art (art notes)/games/game development.txt: invalid byte sequence in UTF-8 
+25
+Error reading file /github/workspace/docs/my-notes/backups/Movies - netflix instant queue.txt: invalid byte sequence in UTF-8 
+26
+Error reading file /github/workspace/docs/my-notes/backups/Movies - netflix queue.txt: invalid byte sequence in UTF-8 
+27
+Error reading file /github/workspace/docs/my-notes/backups/Movies - netflix ratings.txt: invalid byte sequence in UTF-8 
+28
+Error reading file /github/workspace/docs/my-notes/backups/movies - under my name.txt: invalid byte sequence in UTF-8 
+29
+Error reading file /github/workspace/docs/my-notes/computers/programming/programming concepts.txt: invalid byte sequence in UTF-8 
+30
+Error reading file /github/workspace/docs/my-notes/computers/programming/programming languages/Java.txt: invalid byte sequence in UTF-8 
+31
+Error reading file /github/workspace/docs/my-notes/cooking.txt: invalid byte sequence in UTF-8 
+32
+Error reading file /github/workspace/docs/my-notes/games/SSBM.txt: invalid byte sequence in UTF-8 
+33
+Error reading file /github/workspace/docs/my-notes/health/body.txt: invalid byte sequence in UTF-8 
+34
+Error reading file /github/workspace/docs/my-notes/health/immunization record.txt: invalid byte sequence in UTF-8 
+35
+Error reading file /github/workspace/docs/my-notes/ideal girl.txt: invalid byte sequence in UTF-8 
+36
+Error reading file /github/workspace/docs/my-notes/ideas.txt: invalid byte sequence in UTF-8 
+37
+Error reading file /github/workspace/docs/my-notes/knowledge and education/dialogs/chat logs/ivar blog post.txt: invalid byte sequence in UTF-8 
+38
+Error reading file /github/workspace/docs/my-notes/knowledge and education/dialogs/chat logs/penpal.txt: invalid byte sequence in UTF-8 
+39
+Error reading file /github/workspace/docs/my-notes/knowledge and education/education.txt: invalid byte sequence in UTF-8 
+40
+Error reading file /github/workspace/docs/my-notes/knowledge and education/languages/French.txt: invalid byte sequence in UTF-8 
+41
+Error reading file /github/workspace/docs/my-notes/knowledge and education/languages/Korean.txt: ASCII incompatible encoding needs binmode 
+42
+Error reading file /github/workspace/docs/my-notes/life documentation/facebook.txt: invalid byte sequence in UTF-8 
+43
+Error reading file /github/workspace/docs/my-notes/media/Movies - need to watch.txt: invalid byte sequence in UTF-8 
+44
+Error reading file /github/workspace/docs/my-notes/media/books (Rahil-Laptop's conflicted copy 2015-02-13).txt: invalid byte sequence in UTF-8 
+45
+Error reading file /github/workspace/docs/my-notes/media/comics.txt: invalid byte sequence in UTF-8 
+46
+Error reading file /github/workspace/docs/my-notes/media/movies - all watched.txt: invalid byte sequence in UTF-8 
+47
+Error reading file /github/workspace/docs/my-notes/media/movies - netflix queue.txt: invalid byte sequence in UTF-8 
+48
+Error reading file /github/workspace/docs/my-notes/media/music.txt: invalid byte sequence in UTF-8 
+49
+Error reading file /github/workspace/docs/my-notes/media/short films.txt: invalid byte sequence in UTF-8 
+50
+Error reading file /github/workspace/docs/my-notes/notes.txt: invalid byte sequence in UTF-8 
+51
+Error reading file /github/workspace/docs/my-notes/notes2.txt: invalid byte sequence in UTF-8 
+52
+Error reading file /github/workspace/docs/my-notes/quotes.txt: invalid byte sequence in UTF-8 
+53
+Error reading file /github/workspace/docs/my-notes/specific knowledge/by area/Taiwan/Taiwan East Side.txt: invalid byte sequence in UTF-8 
+54
+Error reading file /github/workspace/docs/my-notes/specific knowledge/by area/Taiwan/Taiwan organizations by that one guy.txt: invalid byte sequence in UTF-8 
+55
+Error reading file /github/workspace/docs/my-notes/specific knowledge/by area/orgs in South-east Asia main-land.txt: invalid byte sequence in UTF-8 
+56
+Error reading file /github/workspace/docs/my-notes/specific knowledge/car.txt: invalid byte sequence in UTF-8 
+57
+Error reading file /github/workspace/docs/my-notes/specific knowledge/shopping/shila tires.txt: invalid byte sequence in UTF-8 
