@@ -71,7 +71,7 @@ include:
   - my-notes # cover all options
   - /my-notes/
   
-#markdown_ext: "txt" # does it override, or append? #error
+markdown_ext: ".txt" # does it override, or append? #error
 
 collections:
   pages:
