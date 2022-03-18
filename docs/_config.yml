@@ -60,10 +60,13 @@ plugins:
 
   # theme's custom plugins in the gemfile
   - jekyll-paginate # standard if not official plugin
-  #- jekyll-titles-from-headings # TODO: causing an error for 'Engels, Friedrich - Socialism', but i couldn't find it via grep
+  - jekyll-titles-from-headings # TODO: causing an error??
 
   # plugins that i added specifically for this project
   - 'jekyll-optional-front-matter'
+  
+relative_links:
+  enabled: false # TODO: this was causing an error on 'Engels, Friedrich - Socialism', but i couldn't find it via grep
 
 # TESTING this bit
 include:
