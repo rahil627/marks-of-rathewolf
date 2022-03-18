@@ -69,11 +69,12 @@ plugins:
 # TESTING this bit
 include:
   - /my-notes
-  - my-notes # cover all options
-  - /my-notes/
+  #- my-notes # cover all options
+  #- /my-notes/
   
 # this one is very important, as Jekyll by default only processes .md and .html files
-#markdown_ext: "txt" # does it override, or append? #error
+# comment this out if you don't want to process txt files (basically all of my files)
+markdown_ext: "txt" # does it override, or append? #error
 
 collections:
   pages:
