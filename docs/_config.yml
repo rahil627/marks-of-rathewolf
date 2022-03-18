@@ -72,7 +72,8 @@ include:
   - my-notes # cover all options
   - /my-notes/
   
-markdown_ext: "txt" # does it override, or append? #error
+# this one is very important, as Jekyll by default only processes .md and .html files
+#markdown_ext: "txt" # does it override, or append? #error
 
 collections:
   pages:
