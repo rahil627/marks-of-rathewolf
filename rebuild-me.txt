@@ -3,3 +3,4 @@ test
 check cooking.txt
 clean unicode pass 1
 clean unicode pass 2
+ah crap, forgot to update submodule...
