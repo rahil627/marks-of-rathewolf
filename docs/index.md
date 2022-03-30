@@ -1,8 +1,8 @@
 ---
 layout: page
 #permalink: /home/ #this breaks the site! :o
-slug: home #this doesn't seem to work...
-title: yo!
+#slug: home #this doesn't seem to work...
+title: yo
 ---
 
 <!-- yo -->

@@ -2,6 +2,13 @@
 my notes folder, now public
 
 
+# cool stuff to try :)
+https://github.com/errata-ai/vale
+  - a natural language/prose linter
+
+Jekyll custom markup parser
+
+create or modify a linter to fit my custom markup
 
 
 
